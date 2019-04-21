@@ -1,0 +1,11 @@
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\bin\Debug\netcoreapp2.1\2.5-CriandoInteiros.deps.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\bin\Debug\netcoreapp2.1\2.5-CriandoInteiros.runtimeconfig.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\bin\Debug\netcoreapp2.1\2.5-CriandoInteiros.runtimeconfig.dev.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\bin\Debug\netcoreapp2.1\2.5-CriandoInteiros.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\bin\Debug\netcoreapp2.1\2.5-CriandoInteiros.pdb
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\obj\Debug\netcoreapp2.1\2.5-CriandoInteiros.csproj.CoreCompileInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\obj\Debug\netcoreapp2.1\2.5-CriandoInteiros.AssemblyInfoInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\obj\Debug\netcoreapp2.1\2.5-CriandoInteiros.AssemblyInfo.cs
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\obj\Debug\netcoreapp2.1\2.5-CriandoInteiros.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\obj\Debug\netcoreapp2.1\2.5-CriandoInteiros.pdb
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\2.5-CriandoInteiros\obj\Debug\netcoreapp2.1\2.5-CriandoInteiros.csprojAssemblyReference.cache
