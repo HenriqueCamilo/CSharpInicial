@@ -1,0 +1,11 @@
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\bin\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.deps.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\bin\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.runtimeconfig.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\bin\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.runtimeconfig.dev.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\bin\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\bin\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.pdb
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\obj\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.csprojAssemblyReference.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\obj\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.csproj.CoreCompileInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\obj\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.AssemblyInfoInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\obj\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.AssemblyInfo.cs
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\obj\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\ConversoesEOutrosTiposNumericos2\obj\Debug\netcoreapp2.1\ConversoesEOutrosTiposNumericos2.pdb

@@ -1,0 +1,10 @@
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\netcoreapp2.1\TestaPontoFlutuante.deps.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\netcoreapp2.1\TestaPontoFlutuante.runtimeconfig.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\netcoreapp2.1\TestaPontoFlutuante.runtimeconfig.dev.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\netcoreapp2.1\TestaPontoFlutuante.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\netcoreapp2.1\TestaPontoFlutuante.pdb
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\netcoreapp2.1\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\netcoreapp2.1\TestaPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\netcoreapp2.1\TestaPontoFlutuante.AssemblyInfo.cs
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\netcoreapp2.1\TestaPontoFlutuante.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\netcoreapp2.1\TestaPontoFlutuante.pdb
