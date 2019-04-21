@@ -1,0 +1,10 @@
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.deps.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.runtimeconfig.dev.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\bin\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\P12-CalculaInvestimentoLongoPrazo\obj\Debug\netcoreapp2.1\P12-CalculaInvestimentoLongoPrazo.pdb
