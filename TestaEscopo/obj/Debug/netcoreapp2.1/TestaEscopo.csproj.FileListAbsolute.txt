@@ -1,0 +1,10 @@
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp2.1\TestaEscopo.deps.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp2.1\TestaEscopo.runtimeconfig.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp2.1\TestaEscopo.runtimeconfig.dev.json
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp2.1\TestaEscopo.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\bin\Debug\netcoreapp2.1\TestaEscopo.pdb
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp2.1\TestaEscopo.csproj.CoreCompileInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp2.1\TestaEscopo.AssemblyInfoInputs.cache
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp2.1\TestaEscopo.AssemblyInfo.cs
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp2.1\TestaEscopo.dll
+C:\Users\lu-an\Desktop\cSharp\AprendendoCSharp\TestaEscopo\obj\Debug\netcoreapp2.1\TestaEscopo.pdb
